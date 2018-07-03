@@ -1,0 +1,13 @@
+DATABASE NAME: test_database
+TABLE NAME: events
+id int(100) AI
+title varchar(255)
+day varchar(255)
+start varchar(255)
+over varchar(255)
+
+TABLE NAME: members
+id (100) AI
+username varchar(255)
+password varchar(255)
+
